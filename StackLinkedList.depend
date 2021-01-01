@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1608661328 source:d:\work\codeblock_projects\stacklinkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1608661348 source:d:\work\codeblock_projects\stacklinkedlist\stacklist.c
+	"stackList.h"
+	<stddef.h>
+
+1608661148 d:\work\codeblock_projects\stacklinkedlist\stacklist.h
+
